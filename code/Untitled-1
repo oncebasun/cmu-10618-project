@@ -1,0 +1,1 @@
+python main.py --ac_share_emb --batch_size 1 --seed 2019 --optim adadelta --lr 1.0 --rnn_type lstm --pos_sp --output_pred --epochs 20 --patience 20 --lang galician --split low
